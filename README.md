@@ -5,8 +5,7 @@
 <h1 align="center">Hi 👋, I'm Syed Abdullah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="450" src="C:\Users\Syed Abdullah Masood\Downloads\output-onlinegiftools.gif
-">
+<img align="right" alt="Coding" width="450" src="https://drive.google.com/file/d/1eg4_fHBiIc8B3umrcfJIQtFlRKcvSj_k/preview" width="640" height="480" allow="autoplay">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-abdullah-m&label=Profile%20views&color=0e75b6&style=flat" alt="syed-abdullah-m" /> </p>
 
