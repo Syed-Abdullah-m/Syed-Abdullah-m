@@ -3,7 +3,7 @@ https://camo.githubusercontent.com/26f9c8b7fadcba88f36850ef60d0fec83ea2a48807662
 
 
 <h1 align="center">Hi 👋, I'm Syed Abdullah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="left">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
