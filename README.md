@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 📝 I regularly write articles on [https://medium.com/@syedabdullah.m01](https://medium.com/@syedabdullah.m01)
+- 📝 I write articles on [https://medium.com/@syedabdullah.m01](https://medium.com/@syedabdullah.m01)
 
 - 📫 How to reach me **syedabdullah.m01@gmail.com**
 
