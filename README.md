@@ -1,16 +1,13 @@
 
+
 <img align= "center" src=https://camo.githubusercontent.com/26f9c8b7fadcba88f36850ef60d0fec83ea2a48807662d3ea9b010e4f05ef02e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966>
 
-
 <h1 align="center">Hi 👋, I'm Syed Abdullah</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-abdullah-m&label=Profile%20views&color=0e75b6&style=flat" alt="syed-abdullah-m" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <br> <img src="https://github-profile-trophy.vercel.app/?username=syed-abdullah-m" alt="syed-abdullah-m" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -27,7 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-abdullah-m&show_icons=true&locale=en&layout=compact" alt="syed-abdullah-m" /></p>
 
